@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # curlscripts
 Bash script to automate curl
 =======
@@ -62,4 +61,3 @@ AVG: .064307/10 = .006							AVG: .058750/10 = .005
 ```
 
 
->>>>>>> b1b8c45 (first commit)
