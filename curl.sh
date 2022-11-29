@@ -1,8 +1,8 @@
 #!/bin/bash
 
 function usage() {
-echo "Usage:  $0 host path count delay"
-echo "Example: $0 mytestserver.net heatlh 80 0.1";
+echo "Usage:  $0 count delay host path"
+echo "Example: $0 10 0.1 mytestserver.net heatlh";
 }
 
 if [ $# -ne 4 ]; then
